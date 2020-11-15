@@ -14,7 +14,7 @@ namespace IngTest.Services
         public static List<Transaction> GetTransactions()
         {
             List<Transaction> items = new List<Transaction>();
-            return items;
+        
             try
             {
                 using (StreamReader r = new StreamReader(relativePathToTransactionsJson))
