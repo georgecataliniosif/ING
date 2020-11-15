@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IngTest", "IngTest\IngTest.csproj", "{1150826F-07E5-4D76-AE12-B0F06073BDFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngTestTest", "IngTestTest\IngTestTest.csproj", "{F85857F0-EC24-4E18-87B0-6BBEB4B95BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1150826F-07E5-4D76-AE12-B0F06073BDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1150826F-07E5-4D76-AE12-B0F06073BDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1150826F-07E5-4D76-AE12-B0F06073BDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1150826F-07E5-4D76-AE12-B0F06073BDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85857F0-EC24-4E18-87B0-6BBEB4B95BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85857F0-EC24-4E18-87B0-6BBEB4B95BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85857F0-EC24-4E18-87B0-6BBEB4B95BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85857F0-EC24-4E18-87B0-6BBEB4B95BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9695BE40-466C-4C12-AB30-22CCE0978C2C}
+	EndGlobalSection
+EndGlobal

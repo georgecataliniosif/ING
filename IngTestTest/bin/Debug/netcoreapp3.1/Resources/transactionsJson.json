@@ -1,0 +1,52 @@
+[
+  {
+    "iban": "NL69INGB0123456781",
+    "transactionId": 1,
+    "amount": 20.00,
+    "categoryId": 1,
+    "transactionDate": "2020-09-01"
+  },
+  {
+    "iban": "NL69INGB0123456782",
+    "transactionId": 1,
+    "amount": 21.00,
+    "categoryId": 2,
+    "transactionDate": "2020-09-02"
+  },
+  {
+    "iban": "NL69INGB0123456783",
+    "transactionId": 1,
+    "amount": 22.05,
+    "categoryId": 3,
+    "transactionDate": "2020-09-03"
+  },
+  {
+    "iban": "NL69INGB0123456784",
+    "transactionId": 1,
+    "amount": 23.06,
+    "categoryId": 4,
+    "transactionDate": "2020-09-04"
+  },
+  {
+    "iban": "NL69INGB0123456785",
+    "transactionId": 1,
+    "amount": 24.00,
+    "categoryId": 5,
+    "transactionDate": "2020-09-05"
+  },
+  {
+    "iban": "NL69INGB0123456786",
+    "transactionId": 1,
+    "amount": 25.00,
+    "categoryId": 1,
+    "transactionDate": "2020-09-06"
+  },
+  {
+    "iban": "NL69INGB0123456786",
+    "transactionId": 2,
+    "amount": 26.00,
+    "categoryId": 1,
+    "transactionDate": "2020-09-23"
+  }
+
+]
